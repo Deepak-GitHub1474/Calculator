@@ -81,8 +81,23 @@ body {
   width: 370px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .app {
-    width: 350px;
+    width: 300px;
+  }
+  .result {
+    width: 200px;
+  }
+  .clear-btn{
+    width: 100px;
+  }
+  .btn{
+    width: 70px;
+  }
+  .equal{
+    width: 180px;
+  }
+  .zero{
+    width: 300px;
   }
 }
