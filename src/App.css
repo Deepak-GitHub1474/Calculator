@@ -80,3 +80,9 @@ body {
   grid-column: span 3;  
   width: 370px;
 }
+
+@media (max-width: 768px) {
+  .app {
+    width: 350px;
+  }
+}
